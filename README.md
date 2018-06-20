@@ -2,8 +2,7 @@
 
 This is my portfolio for my supervised, unsupervised, and final capstones during my Thinkful data science program. 
 
-- Final Capstone: Hospital Fall Explanation
-- Predicted and identified key metrics in hospital patient falls.
+- Final Capstone: Hospital Fall Explanation - Predicted and identified key metrics in hospital patient falls.
     - Program/Library Used: Python, Jupyter Notebook, NumPy, Pandas, Scikit-Learn, Seaborn, Meta-Analysis, Scraping, Linear Regression, Random Forest, Gradient Boosting 
 
 - Supervised Capstone: Predicting Activity with a Smartphone
